@@ -1,1 +1,2 @@
 1. status je bil "added"
+2. status je bil "changed"
